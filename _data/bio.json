@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Cody Torres",
+    "label": "Cybersecurity Student @ UH Manoa",
+    "picture": "https://github.com/codygt3.png",
+    "email": "codygt@hawaii.edu",
+    "phone": "808-425-0266",
+    "website": "https://codygt3.github.io",
+    "summary": "Hi guys!.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "codygt3", "url": "https://github.com/codygt3" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/cody-torres/" }
     ]
   },
   "interests": [
