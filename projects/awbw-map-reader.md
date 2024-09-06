@@ -18,6 +18,8 @@ This was a personal project I worked on during my first year at UH Manoa. Advanc
 
 As this was a personal project, I worked completely independently. The biggest reason I started this project was to understand how to use GitHub. I know Git and Github are very important tools in the development world, and I needed to get familiar with them as I will be working with them in the future. I learned how to pull a repository from GitHub to Visual Studio Code, and also learned how to make commits and push them through the command line, which felt really nice.
 
+I will admit that this project was quite small and doesn't serve much of a purpose on it's own, but I had made plans to use this project to help develop other useful programs to help me in Advance Wars. One such idea I had was to make a program that would take the map data and calculate the amount of days it would take for an infantry unit to reach a certain city, given that infantry captured any other cities along the way. If I find the time, I feel it would be a fun exercise in developing a path finding algorithm. 
+
 The project's GitHub repository can be found [here](https://github.com/stickstetris/AWBW-Map-Reader).
 
-Note that the account holder of this repository is my personal account, given that this was a personal project.
+*Note that the account holder of this repository is my personal account, given that this was a personal project.
