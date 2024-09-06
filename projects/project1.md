@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/placeholder.jpg
 title: "Project1"
 date: 2024
 published: true
