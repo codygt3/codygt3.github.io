@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/npnlogo.jpg
+image: img/npnlogo.png
 title: "Nā Pua No'eau Summer Insitute Course"
 date: 2024
 published: true
