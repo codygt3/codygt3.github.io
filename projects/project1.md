@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/AWBW.png
-title: "Project1"
+title: "AWBW Map Reader"
 date: 2024
 published: true
 labels:
   - GitHub
   - Python
-summary: "AWBW Map Reader"
+summary: "Personal GitHub project to learn how to use Git"
 ---
 
 ![AWBW](img/AWBW.png.png)
