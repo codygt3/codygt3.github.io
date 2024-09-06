@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/videoicon.jpg
+image: img/videoicon.png
 title: "English Video Essay"
 date: 2024
 published: true
@@ -19,4 +19,3 @@ This video essay also taught me how to incorporate the ideas of other video crea
 The video I made can be found [here](https://www.youtube.com/watch?v=CqcKBpkVuJk), and is also embedded below.
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/CqcKBpkVuJk" title="English Video Essay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
