@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/placeholder.jpg
-title: "Project2"
+title: ""
 date: 2024
 published: true
 labels:
