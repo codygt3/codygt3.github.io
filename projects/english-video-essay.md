@@ -6,7 +6,8 @@ title: "English Video Essay"
 date: 2024
 published: true
 labels:
-  - GitHub
+  - Video Editing
+  - Fighting Games
 summary: "A video essay on how to start playing fighting games"
 ---
 

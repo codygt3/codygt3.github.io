@@ -16,6 +16,7 @@ Hello everyone! Recently I've began learning how to program in Typescript, as it
 Typescript reminds me of many other programming languages I've used in the past. First of all, the way functions are defined and used remind me of C, because functions are intuitive to create and make usage of and don't require dealing with objects to use them like with Java. I can also specify a return type like in C, although how it differs is that you can specify the return type to be multiple different types like this:
 
     function numOrString(input: number): number | string {
+
 This really intrigues me. I'm also capable of rewriting if-else statements directly into the return statement like this:
 
     function grader(score: number): string {

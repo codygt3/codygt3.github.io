@@ -15,7 +15,8 @@
   },
   "interests": [
     { "name": "Computer Science Education" },
-    { "name": "Cybersecurity" }
+    { "name": "Cybersecurity" },
+    { "name": "Fighting Games"}
   ],
   "skills": [
     {
@@ -26,7 +27,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science - Security Science (expected Spring, 2026)",
+      "area": "Computer Science - Security Science (expected Spring, 2027)",
       "studyType": "M.D.",
       "startDate": "2023-09-01",
       "endDate": "Present",
