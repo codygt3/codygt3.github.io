@@ -6,36 +6,29 @@
     "email": "codygt@hawaii.edu",
     "phone": "",
     "website": "https://codygt3.github.io",
-    "summary": "Hi guys!.",
-    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Pursuing a Master's Degree in Cybersecurity, expected to graduate in 2027. Looking for internship opportunities.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "codygt3", "url": "https://github.com/codygt3" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/cody-torres/" }
+      { "network": "linkedin", "username": "cody-torres", "url": "https://www.linkedin.com/in/cody-torres/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computer Science Education" },
+    { "name": "Cybersecurity" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science - Security Science (expected Spring, 2026)",
+      "studyType": "M.D.",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +36,56 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Popeyes",
+      "position": "Team Member",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Worked service, such as at the front counter or in the drive-thru",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Handling multiple tasks at once, such as talking to a drive-thru customer while bagging an order",
+        "Communicating with customers who may not understand pricing or serving details",
+        "Coordinating with other team members to efficiently get orders out",
+        "Perservering through long shifts and late nights"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Nā Pua No'eau",
+      "position": "Teacher/Kumu",
+      "website": "https://manoa.hawaii.edu/nhss/engage/npn/",
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-15",
+      "summary": "Computer Science instructor for the Summer Institute program",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Preparing a curriculum that integrates Native Hawaiian culture and history into computer science",
+        "Leading coding lessons for students from middle to high school",
+        "Supervising the students and ensuring good behavior and encouraging learning opportunities",
+        "Developing a video to showcase what the students have learned alongside their favorite projects"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io",
+      "position": "President",
+      "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Leading ICSpark, a coding mentorship organization",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Scheduling and facilitating officer meetings, ensuring minimal downtime",
+        "Networking with other organizations and seeking collaboration opportunities",
+        "Representing the organization and spreading its purpose and goals",
+        "Mentoring students in web development"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "UH Manoa Merit Scholarship",
+      "date": "2023-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
