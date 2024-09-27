@@ -13,27 +13,17 @@ On my journey to learn different programming languages, a recurring theme betwee
 
 ## The Importance of Coding Standards
 
-The answer lies in the fact that not all coding styles are equal. Take this snippet of code for example:
+The answer lies in the fact that not all coding styles are equal. Take this snippet of TypeScript code for example:
 
-```javascript
-function a(b) {
-    var c = 0;
-    for (var d = 0; d < b.length; d++) {
-        if (b[d] % 2 == 0) {
-            c += b[d];
-        }
-    }
-    return c;
-}
-
-console.log(a([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
+```typescript
+function a(b){var c=0;for(var d=0;d<b.length;d++){if(b[d]%2==0){c+=b[d];}}return c}console.log(a([1,2,3,4,5,6,7,8,9,10]));
 ```
 
 This code compiles and runs perfectly fine, but can you tell me what the purpose of this code is? I wouldn’t be able to tell you without looking at it for a couple of minutes. 
 
 Now let’s look at code that does the exact same thing, but styled differently:
 
-```javascript
+```typescript
 function sumEvenNumbers(numbers) {
     let sum = 0;
     for (let i = 0; i < numbers.length; i++) {
@@ -54,7 +44,7 @@ Now, it’s much easier to tell what this code does. Even if code does compile a
 
 The most recent coding standard I’ve been getting accustomed to is ESLint for TypeScript. Here’s some JavaScript code that compiles and runs just fine, and also is easily readable:
 
-```javascript
+```typescript
 function greet(name) {
     if (name == "World") {
         console.log("Hello, World!");
@@ -68,7 +58,7 @@ greet("Alice");
 
 Through ESLint’s coding standards, there are multiple things that I would need to fix about this code snippet. I’m told to use single quotes for strings instead of double quotes, opening braces should be on the same line, I should use `===` instead of `==`, and I need an empty newline at the end of my code. It would look something like this:
 
-```javascript
+```typescript
 function greet(name) {
     if (name === 'World') {
         console.log('Hello, World!');
@@ -81,3 +71,5 @@ greet('Alice');
 ```
 
 For the most part, it’s not too difficult to follow ESLint standards, but it’s a little annoying to follow sometimes. I’ve grown accustomed to opening braces on their own line, instead of on the same line, so having to fix it whenever I write my code like that occasionally kind of sucks. Although I could argue that both code snippets are perfectly human-readable, there may be a good reason to explain why following the code standard outside of readability. I will continue to follow these standards, even though they are annoying sometimes.
+
+<img class="img-fluid" src="../img/eslint.png">
