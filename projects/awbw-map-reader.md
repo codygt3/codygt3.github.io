@@ -22,4 +22,4 @@ I will admit that this project was quite small and doesn't serve much of a purpo
 
 The project's GitHub repository can be found [here](https://github.com/stickstetris/AWBW-Map-Reader).
 
-*Note that the account holder of this repository is my personal account, given that this was a personal project.
+*Note that the account holder of this repository is my personal account, given that this was a personal project of mine.
