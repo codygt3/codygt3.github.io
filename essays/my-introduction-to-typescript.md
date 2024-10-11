@@ -25,6 +25,7 @@ This really intrigues me. I'm also capable of rewriting if-else statements direc
            score >= 70 ? 'C' :
            score >= 60 ? 'D' :
            'F'; }
+           
 I find this really cool, as it looks much cleaner than a long if-else chain. I'm excited to learn the other quirks of typescript that can make my code look cleaner and more efficient. 
 
 ### Using Typescript In Class
