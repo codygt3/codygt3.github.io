@@ -10,11 +10,6 @@ labels:
   - HTML, CSS, JS
 ---
 
-
-  
-
-# What’s The Deal With UI Frameworks?
-
   
 
 Let’s say you wanted to create a webpage for a new business you’re starting up. When it comes to how you’ll create this webpage, you have two options:
