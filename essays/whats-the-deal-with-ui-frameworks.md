@@ -72,6 +72,8 @@ With HTML and CSS, this would be pretty easy:
             <p>This side takes up 30% of the screen width.</p>
         </div>
     </div>  
+
+    
 ### CSS:
 
     .container {
