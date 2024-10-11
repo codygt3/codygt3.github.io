@@ -57,7 +57,7 @@ For example, I want to have two sections in my webpage, the left taking up 70% o
 
   
 
-<img class="img-fluid" src="../img/splitpage.png">
+<img class="img-fluid" src="../img/splitPage.png">
 
   
 
