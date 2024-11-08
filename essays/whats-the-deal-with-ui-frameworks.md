@@ -72,6 +72,8 @@ With HTML and CSS, this would be pretty easy:
             <p>This side takes up 30% of the screen width.</p>
         </div>
     </div>  
+
+    
 ### CSS:
 
     .container {
@@ -263,3 +265,4 @@ There’s no contest, with Bootstrap it was trivial.
 
 Using a UI framework can have its headaches, but if I need to get something basic done quickly, I’ll stick with something like Bootstrap since it gets the job done fast. One thing I didn’t mention is that frameworks are great in team settings. When everyone follows the same structure, it’s easier to work together. With raw HTML and CSS, there are so many ways to structure things that it can be tough to understand someone else’s setup, especially if it only makes sense to them.
 
+ChatGPT was used to help generate the HTML, CSS, and Javascript in this essay.
