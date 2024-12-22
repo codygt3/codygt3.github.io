@@ -10,7 +10,7 @@ labels:
   - Stack Overflow
 ---
 
-## Of Course It Does
+## Of Course It Does 
 Although there is no such thing as a stupid question, there are distinct differences between a question that is clear and thought provoking, and a question that reflects the asker’s sense of entitlement or lack of effort. The way you phrase the question you ask will affect the kind of answer you get.
 
 For example, asking:
@@ -67,7 +67,7 @@ I was curious to see some real examples of “smart” and “not-so-smart” qu
 
 This post started with a bunch of instructions that the user was given, and the code that the user had made. They state that it does not work, and ask what is wrong with it.  
 
-First of all, the title is not descriptive or specific. Reading “codewars problem solving 7kys --> 80's Kids #5: You Can't Do That on Television” does not tell me anything about the user’s problem. Second, there was no effort to describe any specific goal, all the user provided was a set of instructions, code that doesn’t work, and just asked why. Third, and the biggest offender of this post, is that there clearly was no effort that was made to try and solve the problem through any other means. Nowhere in this post did the user describe what they tried to do, what resources they had seeked out, or even a single Google search. This commenter perfectly sums up what is wrong with this post:
+First of all, the title is not descriptive or specific. Reading “codewars problem solving 7kys --> 80's Kids #5: You Can't Do That on Television” does not tell me anything about the user’s problem. Second, there was no effort to describe any specific goal, all the user provided was a set of instructions, code that doesn’t work, and just asked why. Third, and the biggest offender of this post, is that there clearly was no effort that was made to try and solve the problem through any other means. Nowhere in this post did the user describe what they tried to do, what resources they had sought out, or even a single Google search. This commenter perfectly sums up what is wrong with this post:
 
 > “A note about titles: They should be an executive summary of the
 > technical problem faced. The current title tells future askers nothing
